@@ -2558,6 +2558,10 @@ input, select, textarea {
 				.wrapper.style3-alt .icon.major:before {
 					color: #3c7d63;
 				}
+				
+			.icon.major.email {
+				display: inline-block;
+			}
 
 /* Image */
 
