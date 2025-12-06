@@ -2561,6 +2561,7 @@ input, select, textarea {
 				
 			.icon.major.email {
 				display: inline-block;
+				cursor: pointer;
 			}
 
 /* Image */
