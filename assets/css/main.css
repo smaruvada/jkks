@@ -3383,7 +3383,7 @@ input, select, textarea {
 		display: flex;
 		background-color: #4167a6;
 		cursor: default;
-		padding: 1.75em 2em;
+		padding: 0.5em 2em;
 	}
 
 		#header > .title {
@@ -3399,7 +3399,7 @@ input, select, textarea {
 			-webkit-flex: 1;
 			-ms-flex: 1;
 			flex: 1;
-			text-align: right;
+			text-align: left;
 		}
 
 			#header > nav > ul {
@@ -3557,10 +3557,10 @@ input, select, textarea {
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
 			flex-direction: column;
-			-moz-justify-content: center;
-			-webkit-justify-content: center;
-			-ms-justify-content: center;
-			justify-content: center;
+			-moz-justify-content: left;
+			-webkit-justify-content: left;
+			-ms-justify-content: left;
+			justify-content: left;
 			-moz-transform: translateY(0);
 			-webkit-transform: translateY(0);
 			-ms-transform: translateY(0);
