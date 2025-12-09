@@ -3379,7 +3379,7 @@ input, select, textarea {
 .social-icon-links {
 	display: flex;
   	column-gap: 10px;
-  	justify-content: right;
+  	justify-content: left;
 }
 
 /* Header */
