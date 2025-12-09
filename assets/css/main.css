@@ -3376,9 +3376,10 @@ input, select, textarea {
 
 /* Icons on the Social page */
 
-#social-icon-links {
-	padding: 2px;
-	text-align: right;
+.social-icon-links {
+	display: flex;
+  	column-gap: 10px;
+  	justify-content: right;
 }
 
 /* Header */
